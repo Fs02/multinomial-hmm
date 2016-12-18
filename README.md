@@ -1,4 +1,4 @@
-# multinomial-hmm
+# multinomial-hmm [![npm version](https://badge.fury.io/js/multinomial-hmm.svg)](https://badge.fury.io/js/multinomial-hmm)
 Dead simple multinomial hmm in NodeJs
 
 ## Usage
