@@ -1,4 +1,4 @@
-var MultinomialHMM = require("./lib/multinomial-hmm")
+var MultinomialHMM = require("multinomial-hmm")
 
 // Example from wikipedia
 states = ['Healthy', 'Fever']
